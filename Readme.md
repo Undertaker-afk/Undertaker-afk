@@ -1,5 +1,5 @@
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/2208c2e0-1092-443a-aca1-62f9b58bdae2" />
 
-![image](https://github.com/user-attachments/assets/5a0580f8-2551-419e-9b7a-1e1fcdd12e77)
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179710494" target="_blank" style="display: block" align="center">
