@@ -1,3 +1,10 @@
+
+
+
+discord: .tntflo
+
+
+
 <img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/2208c2e0-1092-443a-aca1-62f9b58bdae2" />
 
 <!-- Copy-paste in your Readme.md file -->
